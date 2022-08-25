@@ -1,0 +1,4 @@
+grep-
+Grep is one of the most powerful utilities for working with text files. It searches for lines that match a regular expression and print them:
+
+grep "linux" long.txt
